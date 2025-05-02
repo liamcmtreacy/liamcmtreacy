@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @liamcmtreacy
-- 👀 I’m interested in programming and animation
-- 🌱 I’m currently learning SE601 COMPUTING IN INTERACTIVE DIGITAL ART AND DESIGN
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me Email Liamtreacy100@hotmail.com
+- 👋 Hi, I’m @liamcmtreacy (Liam Treacy)
+- 👀 I enjoy drawing, animation, video games, sports and socialising with my friends.
+- 🌱 I’m currently studying SE601 COMPUTING IN INTERACTIVE DIGITAL ART AND DESIGN in SETU Carlow.
+- Portfolio: https://liamcmtreacy.github.io/liamPortfolioWebUI/ 
+- 📫 How to reach me Email Liamtreacy100@hotmail.com or C00298242@setu.ie
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I am very interesting
 
 <!---
 liamcmtreacy/liamcmtreacy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
