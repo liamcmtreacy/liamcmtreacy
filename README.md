@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @liamcmtreacy (Liam Treacy)
 - 👀 I enjoy drawing, animation, video games, sports and socialising with my friends.
-- 🌱 I’m currently studying SE608 COMPUTING IN INTERACTIVE DIGITAL ART AND DESIGN in SETU Carlow.
-- Portfolio: https://liamcmtreacy.github.io/liamPortfolioWebUI/ 
+- 🌱 I’m currently studying Computing in Interactive Digital Art and Design in SETU Carlow, in 4th year I will learn VFX Programming, Advanced Encvironment 3D Modelling and Design Process and Methodology
+- Portfolio: https://liamcmtreacy.github.io/liamPortfolioWebUI/
 - 📫 How to reach me Email Liamtreacy100@hotmail.com or C00298242@setu.ie
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am very interesting
