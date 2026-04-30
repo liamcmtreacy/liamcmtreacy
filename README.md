@@ -10,7 +10,7 @@ http://liamtreacy.ie/
 ![Liam's GitHub stats](https://github-readme-stats.vercel.app/api?username=liamcmtreacy&show_icons=true&theme=radical)
 
 ## 💻 Most Used Programming Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=liamcmtreacy&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=liamcmtreacy&layout=compact&theme=radical&v=2)
 
 ## 🔥 GitHub Streak
 ![GitHub Streak](https://streak-stats.demolab.com/?user=liamcmtreacy&theme=radical)
