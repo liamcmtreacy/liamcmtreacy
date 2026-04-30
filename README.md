@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @liamcmtreacy (Liam Treacy)
+## Hello, my name is Liam Treacy, I am the handsome lad in the photo
 
 ## 📫 Contact Me
 Liamtreacy100@hotmail.com or C00298242@setu.ie
